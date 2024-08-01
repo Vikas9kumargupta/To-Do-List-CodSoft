@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">To Do App CodSoft</string>
+    <string name="vikas">Vikas</string>
+    <string name="enter_note_here">Enter Task here</string>
+    <string name="submit">Submit</string>
+    <string name="note_app">To Do APP</string>
+</resources>
